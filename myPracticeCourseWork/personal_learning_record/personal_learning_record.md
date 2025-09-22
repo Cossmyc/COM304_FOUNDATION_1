@@ -7,7 +7,7 @@
 | Student Number |  |
 | Student Email | 0raduc98@solent.ac.uk |
 | Github Account Username | Cossmyc |
-| Github Submission Repository URL |  |
+| Github Submission Repository URL | https://github.com/Cossmyc/COM304_FOUNDATION_1/edit/main/myPracticeCourseWork/personal_learning_record/personal_learning_record.md |
 
 ## Introduction
 
