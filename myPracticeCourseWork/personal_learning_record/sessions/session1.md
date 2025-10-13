@@ -4,6 +4,7 @@
 
 ## Topics covered
 *What topics were covered in this session*
+* History on Computing
 * Setting up Github/Git
 * 
 
