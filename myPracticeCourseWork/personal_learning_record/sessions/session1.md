@@ -4,6 +4,7 @@
 
 ## Topics covered
 *What topics were covered in this session*
+Current topics covered in session/week 1 were the following:
 * History on Computing
 * Setting up Github/Git
 * 
