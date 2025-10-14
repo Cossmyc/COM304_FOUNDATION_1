@@ -4,12 +4,14 @@
 
 ## Topics covered
 *What topics were covered in this session*
-
+* ARM Assembler and C programmnig using CPUlator (High Level Languages)
+* 
 
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+Interpreted languages read high level language inputs and translates it into machine code as it is written, then it is immediatly run by the processors (e.g. Python, Javascript, PHP, Bourne Shell)
 
 
 ## Exercises and results
