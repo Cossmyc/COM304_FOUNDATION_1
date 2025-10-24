@@ -4,10 +4,10 @@
 
 ## Topics covered
 *What topics were covered in this session*
+
 Current topics covered in session/week 1 were the following:
-* History on Computing
-* Setting up Github/Git
-* 
+* Setting up and getting started with Git and Github
+* Brief history and timeline of Computing
 
 
 ## Personal Notes and research following this session
