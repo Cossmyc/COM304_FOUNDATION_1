@@ -13,7 +13,7 @@
 
 Raspberry Pi's area a portable single-board computers that are widely used as a starting point in working with both programming and engineering due to its relatively small cost and size. While rudimentary by today's standards, the specs are enough for them to be used in simple electric engineering and automation projects where minimising physical space taken is ideal.
 
-The Raspberry Pi's are generally assembled on a single motherboard unit for a compact design which is usually acompanied by a quad-core ARM processor and GPU, 512Mb-1Gb RAM storage, USB Ports (can be 2.0 or 3.0), HDMI ports, a Micro USB port used as a power input, 
+The Raspberry Pi's are generally assembled on a single motherboard unit for a compact design which is usually acompanied by a quad-core ARM processor and GPU, 512Mb-1Gb RAM, USB Ports (can be 2.0 or 3.0), HDMI ports, a Micro USB for powering up the Raspberry Pi, An Micro SD Card 
 <img width="713" height="420" alt="image" src="https://github.com/user-attachments/assets/3f71ad59-e8d1-4371-bc21-7bf6b3e5a40e" />
 
 
